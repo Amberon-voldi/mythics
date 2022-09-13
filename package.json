@@ -1,7 +1,7 @@
 {
   "name": "mythics",
   "version": "1.0.0",
-  "description": "A Simple But Clean Music bot using 'Jericho Player' music player package",
+  "description": "A Discord Bot",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js",
@@ -9,14 +9,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SidisLiveYT/Jericho-Player-Discord-Bot.git"
+    "url": "git+https://github.com/Ameron-voldi/mythics"
   },
   "author": "Amberon",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/SidisLiveYT/Jericho-Player-Discord-Bot/issues"
-  },
-  "homepage": "https://github.com/SidisLiveYT/Jericho-Player-Discord-Bot#readme",
+
   "dependencies": {
     "discord.js": "^13.5.0",
     "dotenv": "^10.0.0",
